@@ -6,7 +6,7 @@ metadata:
     team: team-a
 spec:
   parameters:
-    region: us-west-2
-    availabilityZone: us-west-2a
+    region: us-east-2
+    availabilityZone: us-east-2a
     size: small
     storage: 20
