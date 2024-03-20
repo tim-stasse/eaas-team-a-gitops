@@ -20,7 +20,7 @@ spec:
 
   # Source of the application manifests
   source:
-    repoURL: 'https://github.com/environment-aas/team-a-gitops.git'
+    repoURL: 'https://github.com/tim-stasse/eaas-team-a-gitops.git'
     path: my-db
     targetRevision: HEAD
 
